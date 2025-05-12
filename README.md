@@ -16,7 +16,7 @@ This program allows you to:
 
 ---
 
-##How to use it?
+## How to use it?
 
 1. Run the file in your favorite Python environment.
 2. Enter the data when prompted.
